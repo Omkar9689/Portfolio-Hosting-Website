@@ -4,7 +4,7 @@ import { OmkarComponent } from "../omkar-component/omkar-component";
 
 @Component({
   selector: 'app-root',
-  imports: [RouterOutlet,OmkarComponent],
+  imports: [OmkarComponent],
   templateUrl: './app.html',
   styleUrl: './app.css'
 })
